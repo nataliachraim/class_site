@@ -1,0 +1,48 @@
+body {
+    background-color: #00d4ff;
+
+}
+
+
+a {
+    color: aliceblue;
+    text-decoration:none;
+    font-family: montserrat, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+
+a:hover {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.waste {
+    text-align: center;
+    color: dodgerblue;
+    font-size: 30px;
+    font-family: montserrat, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    position: sticky;
+}
+
+.straw{
+    text-align: center;
+}
+
+.patch {
+    text-align: center;
+    padding: 30px;
+}
+
+.bag {
+    text-align: center;
+ 
+}

@@ -1,0 +1,31 @@
+body {
+    background: #2196F3;
+    background-size: cover;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    
+
+}
+
+a:link {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: montserrat, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+a:visited {
+    color: aliceblue;
+}
+
+.straw {
+    text-align: center;
+    padding: 30px;
+}
+
+.contigo {
+    
+}

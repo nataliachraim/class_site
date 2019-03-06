@@ -1,0 +1,27 @@
+body {
+    background: #090979;
+    background-size: cover;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    
+
+}
+
+
+.title {
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: montserrat, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+a:visited {
+    color: aliceblue;
+}
