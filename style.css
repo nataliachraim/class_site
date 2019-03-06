@@ -1,9 +1,9 @@
 body {
     background-image: linear-gradient(to bottom right, #00d4ff, #090979);
     background-size: cover;
-    height: 700px;
     background-repeat: no-repeat;
     background-position: center;
+    height: 10000px;
 
 }
 
