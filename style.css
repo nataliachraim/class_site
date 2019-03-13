@@ -91,8 +91,16 @@ a:visited {
   background-color:  #090979;
 }
 
+.sun {
+    padding-top: 350px;
+    text-align: center;
+    
+}
 
-
+.bag {
+   padding-left: -100px;
+    
+}
 
 
 
